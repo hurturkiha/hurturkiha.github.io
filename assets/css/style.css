@@ -1084,6 +1084,7 @@ p {
     overflow: hidden; }
     .single-blog .blog-image img {
       width: 100%;
+      height: 200px;
       -webkit-transition: all 0.3s ease-out 0s;
       -moz-transition: all 0.3s ease-out 0s;
       -ms-transition: all 0.3s ease-out 0s;
@@ -1091,9 +1092,6 @@ p {
       transition: all 0.3s ease-out 0s; }
   .single-blog .blog-content {
     width: 100%;
-    position: absolute;
-    bottom: 0;
-    left: 0;
     background-color: rgba(255, 255, 255, 1);
     padding: 25px;
     -webkit-transition: all 0.3s ease-out 0s;
