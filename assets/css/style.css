@@ -1129,12 +1129,6 @@ p {
     -ms-transform: scale(1.2);
     -o-transform: scale(1.2);
     transform: scale(1.2); }
-  .single-blog:hover .blog-content {
-    background-color: black; }
-    .single-blog:hover .blog-content .blog-title a {
-      color: #fff; }
-    .single-blog:hover .blog-content span {
-      color: #fff; }
 
 /*===========================
        8.CONTACT css 
